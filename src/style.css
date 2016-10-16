@@ -1,0 +1,12 @@
+body{
+	background-color: white;
+}
+
+h1{
+	color: #999;
+}
+
+.abc{
+	display: flex;
+	color:black
+}
